@@ -1,0 +1,14 @@
+metadata_version: 1
+name: Breastfeeding and IQ
+description: Demo using simulated data
+tags:
+- EBSCO
+- Code Ocean
+- UKRN
+authors:
+- name: Mark Gibson
+  affiliations:
+  - name: University of Bristol
+corresponding_contributor:
+  name: Mark Gibson
+  email: mark.gibson@bristol.ac.uk
